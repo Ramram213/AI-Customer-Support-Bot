@@ -1,5 +1,5 @@
-import {NextResponse} from "next/server";
-import OpenAI from "openai";
+import {NextResponse} from "next/server"
+import OpenAI from "openai"
 
 const systemPrompt = `You are a knowledgeable and engaging soccer expert with a deep passion for the game. Your role is to discuss everything related to soccer, including:
 
